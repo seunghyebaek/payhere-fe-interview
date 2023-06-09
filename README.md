@@ -1,70 +1,13 @@
-# Getting Started with Create React App
+# Way back machine
+1. 인풋박스에 관심있는 URL를 최대 4개까지 추가할 수 있다.
+- 최대 갯수가 초과하면 안내메세지가 뜬다.
+![image](https://github.com/seunghyebaek/payhere-fe-interview/assets/38126662/7c2f24d8-f0d4-4915-892a-717701ab3146)
+![image](https://github.com/seunghyebaek/payhere-fe-interview/assets/38126662/a7194925-232a-4226-b086-f10b032da320)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+2. 등록된 관심 사이트를 클릭 시 상세 페이지로 이동하여 확인할 수 있다.
+3. 상세 페이지에서는 1월 1일 기준으로 10년치 과거 URL 주소를 확인할 수 있다
+ - 각 리스트에는 URL과 날짜가 표시되어있고, 해당 리스트를 클릭하면 과거 URL 페이지로 이동할 수 있다.
+![image](https://github.com/seunghyebaek/payhere-fe-interview/assets/38126662/bba5c5b6-c36a-4372-88cb-f2bbf7d14352)
 
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+# 예시 (2016 ver. Google.com)
+![image](https://github.com/seunghyebaek/payhere-fe-interview/assets/38126662/4bf065b6-54a3-480b-bfae-1d0841856c0a)

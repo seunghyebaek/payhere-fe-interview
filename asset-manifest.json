@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/payhere-fe-interview/static/css/main.a50bd844.css",
+    "main.js": "/payhere-fe-interview/static/js/main.a456878b.js",
+    "index.html": "/payhere-fe-interview/index.html",
+    "main.a50bd844.css.map": "/payhere-fe-interview/static/css/main.a50bd844.css.map",
+    "main.a456878b.js.map": "/payhere-fe-interview/static/js/main.a456878b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a50bd844.css",
+    "static/js/main.a456878b.js"
+  ]
+}
